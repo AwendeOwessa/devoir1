@@ -1,0 +1,17 @@
+    .arrondis {
+        border-radius: 10px;
+    }
+    
+    .fond {
+        background: #D9D9D980;
+    }
+    
+    .couleur {
+        color: purple;
+    }
+    
+    .couleur1 {
+        color: black;
+    }
+    
+    @media (width:767px) {}
